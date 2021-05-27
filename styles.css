@@ -1,0 +1,25 @@
+.btnIncrease,
+.btnDecrease,
+.btnReset {
+  border: 5px solid rgb(177, 138, 214);
+  border-radius: 6%;
+  padding: 10px 20px 10px 20px;
+  background-color: rgb(245, 132, 79);
+  font-size: larger;
+}
+
+#counter {
+  font-size: 100px;
+}
+
+h1 {
+  font-size: 5rem;
+  font-weight: bold;
+  text-shadow: 2px 2px rgb(145, 142, 15);
+}
+
+.container {
+  border: 3px solid black;
+  padding: 100px;
+  margin-top: 200px;
+}
